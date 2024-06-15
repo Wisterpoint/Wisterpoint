@@ -41,7 +41,7 @@
 <h2 align="center">Stats For Nerds</h2>
 <!--<details>-->
 <!--<summary>Show/Hide</summary>-->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wisterpoints Stats" src="https://github-readme-stats.vercel.app/api?username=Wisterpoint&show_icons=true%&hide_rank=true&theme=midnight-purple&card_width=420" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wisterpoints Top Languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterpoint&layout=compact&theme=midnight-purple" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wisterpoints Stats" src="https://github-readme-stats.vercel.app/api?username=Wisterpoint&show_icons=true%&hide_border=true&hide_rank=true&theme=midnight-purple&card_width=420" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wisterpoints Top Languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterpoint&layout=compact&hide_border=true&theme=midnight-purple" height="192px"/></a>
 
 <!--</details>-->
