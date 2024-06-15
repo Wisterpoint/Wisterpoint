@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://www.youtube.com/@Wisterpoint">
-      <img alt="youtube subscribers" title="YouTube Subs" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLu58Tmw8LV5YnNX9WxKbbw?color=FF3131&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=C62828"/></a>
+      <img alt="youtube subscribers" title="YouTube Subs" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLu58Tmw8LV5YnNX9WxKbbw?color=FF3131&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=C62828"/></a>
     <a href="https://www.youtube.com/@Wisterpoint">
       <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLu58Tmw8LV5YnNX9WxKbbw?color=737373&logo=eye&logoColor=white&style=for-the-badge&labelColor=545454"/></a>
     <a href="https://github.com/Wisterpoint?tab=followers">
@@ -37,6 +37,7 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+<p align="center"><a href="https://www.youtube.com/@Wisterpoint"><img alt="youtube subscribers" title="YouTube Subs" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLu58Tmw8LV5YnNX9WxKbbw?color=FF3131&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=C62828"/></a></p>
 
 <h2 align="center">Stats For Nerds</h2>
 <!--<details>-->
