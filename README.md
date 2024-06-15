@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm Wisterpoint</h1>
+<h1 align="center">Hello, I'm Will</h1>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=4000&pause=10&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Creator+of+Janky+Things" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=4000&pause=100&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Creator+of+Janky+Things;Aka.+Wisterpoint" alt="Typing SVG" /></a></h2>
 
   <p align="center">
     <a href="https://www.youtube.com/@Wisterpoint">
@@ -40,4 +40,4 @@
 
 <h2 align="center">Stats For Nerds</h2>
 
-![Wisterpoint's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisterpoint&show_icons=true&theme=onedark)
+<img alt="Wisterpoints Stats src="https://github-readme-stats.vercel.app/api?username=wisterpoint&show_icons=true&theme=onedark"/>
