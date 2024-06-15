@@ -15,8 +15,7 @@
   
 <hr>
 
-<details>
-<summary><h2 align="center">Visit My Website</h2></summary>
+<h2 align="center">Visit My Website</h2>
 
   <a href="https://www.wisterpoint.com"><img align="left" alt="Wisterpoint Icon" width="300px" src="https://avatars.githubusercontent.com/u/162366085"/></a>
   <h3><strong> > <a href="https://www.wisterpoint.com">www.wisterpoint.com</a> <</strong></h3>
@@ -40,3 +39,5 @@
 <!-- END YOUTUBE-CARDS -->
 
 <h2 align="center">Stats For Nerds</h2>
+
+![Wisterpoint's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisterpoint&show_icons=true&theme=onedark)
