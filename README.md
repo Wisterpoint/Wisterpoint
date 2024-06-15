@@ -41,5 +41,7 @@
 <h2 align="center">Stats For Nerds</h2>
 <details>
 <summary>Show/Hide</summary>
-<img alt="Wisterpoints Stats" src="https://github-readme-stats.vercel.app/api?username=wisterpoint&show_icons=true&theme=onedark"/>
+<a href=""><img alt="Wisterpoints Stats" src="https://github-readme-stats.vercel.app/api?username=Wisterpoint&show_icons=true&theme=onedark"/></a>
+<a href=""><img alt="Wisterpoints Top Languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterpoint&layout=compact&theme=onedark"/></a>
+
 </details>
