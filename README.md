@@ -40,4 +40,4 @@
 
 <h2 align="center">Stats For Nerds</h2>
 
-<img alt="Wisterpoints Stats src="https://github-readme-stats.vercel.app/api?username=wisterpoint&show_icons=true&theme=onedark"/>
+<img alt="Wisterpoints Stats" src="https://github-readme-stats.vercel.app/api?username=wisterpoint&show_icons=true&theme=onedark"/>
