@@ -39,9 +39,9 @@
 <!-- END YOUTUBE-CARDS -->
 
 <h2 align="center">Stats For Nerds</h2>
-<details>
-<summary>Show/Hide</summary>
-<a href=""><img alt="Wisterpoints Stats" src="https://github-readme-stats.vercel.app/api?username=Wisterpoint&show_icons=true&theme=onedark"/></a>
-<a href=""><img alt="Wisterpoints Top Languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterpoint&layout=compact&theme=onedark"/></a>
+<!--<details>-->
+<!--<summary>Show/Hide</summary>-->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wisterpoints Stats" src="https://github-readme-stats.vercel.app/api?username=Wisterpoint&show_icons=true&theme=onedark"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wisterpoints Top Languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterpoint&layout=compact&theme=onedark"/></a>
 
-</details>
+<!--</details>-->
