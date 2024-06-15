@@ -15,8 +15,7 @@
   
 <hr>
 
-<details>
-<summary><h2 align="center">Visit My Website</h2></summary>
+<h2 align="center">Visit My Website</h2>
 
   <a href="https://www.wisterpoint.com"><img align="left" alt="Wisterpoint Icon" width="300px" src="https://avatars.githubusercontent.com/u/162366085"/></a>
   <h3><strong> > <a href="https://www.wisterpoint.com">www.wisterpoint.com</a> <</strong></h3>
