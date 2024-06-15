@@ -37,7 +37,7 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
-<p align="center"><a href="https://www.youtube.com/@Wisterpoint"><img alt="youtube subscribers" title="YouTube Subs" src="https://custom-icon-badges.demolab.com/youtube/channel/UCLu58Tmw8LV5YnNX9WxKbbw?color=FF3131&label=SUBSCRIBE&style=for-the-badge&labelColor=C62828"/></a></p>
+<p align="center"><a href="https://www.youtube.com/@Wisterpoint"><img alt="youtube subscribers" title="YouTube Subs" src="https://custom-icon-badges.demolab.com/youtube/channel/UCLu58Tmw8LV5YnNX9WxKbbw?color=FF3131&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=C62828"/></a></p>
 
 <h2 align="center">Stats For Nerds</h2>
 <!--<details>-->
