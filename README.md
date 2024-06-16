@@ -13,7 +13,7 @@
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Wisterpoint?color=D1912F&style=for-the-badge&labelColor=AF7823&logo=star"/></a>
   </p>
   
-# 
+<hr>
 
 <h2 align="center">Visit My Website</h2>
 
@@ -38,6 +38,8 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 <p align="center"><a href="https://www.youtube.com/@Wisterpoint"><img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather"/></a></p>
+
+<hr>
 
 <h2 align="center">Stats For Nerds</h2>
 <!--<details>-->
