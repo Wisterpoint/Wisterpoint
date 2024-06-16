@@ -48,3 +48,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wisterpoints Top Languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterpoint&layout=compact&hide_border=true&theme=midnight-purple&card_width=420"/></a>
 
 <!--</details>-->
+<hr>
+
+<p align="center">Thank you for reading :)</p>
