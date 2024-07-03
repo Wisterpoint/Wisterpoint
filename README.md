@@ -22,11 +22,11 @@
   <p>------------------------------------------------------------------------------------</p>
 <h3>What's there</h3>
 <p>
-  　 - Information on projects I have worked on, or am currently working on.
-  <br>　 - The free tutorials I make that may be useful for learning but you tell me.
-  <br>　 - Posts from me about the things I am currently working on.
-  <br>　 - Free resources that you can use as long as you follow the respective license.
-  <br>　 - And more but why dont you go to my website and have a look for yourself.
+  　 - Currently nothing
+  <br>　 - I'm not sure what to put there yet
+  <br>　 - 
+  <br>　 - 
+  <br>　 - 
   <br> 
 </p>
 <p>-------------------------------------------------------------------------------------</p>
