@@ -23,8 +23,8 @@
 <h3>What's there</h3>
 <p>
   　 - Currently nothing
-  <br>　 - I'm not sure what to put there yet
-  <br>　 - 
+  <br>　 - About me
+  <br>　 - Posts I make
   <br>　 - 
   <br>　 - 
   <br> 
