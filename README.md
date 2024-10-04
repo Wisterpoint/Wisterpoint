@@ -22,9 +22,9 @@
   <p>------------------------------------------------------------------------------------</p>
 <h3>What's there</h3>
 <p>
-  　 - Currently nothing
-  <br>　 - About me
-  <br>　 - Posts I make
+  　 - About me
+  <br>　 - Posts I've made
+  <br>　 -
   <br>　 - 
   <br>　 - 
   <br> 
