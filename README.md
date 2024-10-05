@@ -22,8 +22,8 @@
   <p>------------------------------------------------------------------------------------</p>
 <h3>What's there</h3>
 <p>
-  　 - About me
-  <br>　 - Posts I've made
+  　 - It literally just links to this page currently
+  <br>　 - 
   <br>　 -
   <br>　 - 
   <br>　 - 
