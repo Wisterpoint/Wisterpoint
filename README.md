@@ -23,7 +23,7 @@
 <h3>What's there</h3>
 <p>
   　 - It literally just links to this page currently
-  <br>　 - 
+  <br>　 - So nothing
   <br>　 -
   <br>　 - 
   <br>　 - 
