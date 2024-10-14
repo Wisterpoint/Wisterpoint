@@ -17,7 +17,7 @@
 
 <h2 align="center">About me</h2>
 
-  <!-- <a href="https://www.wisterpoint.com"><img align="left" alt="Wisterpoint Icon" width="300px" src="https://avatars.githubusercontent.com/u/162366085"/></a> -->
+  <a href="https://www.wisterpoint.com"><img align="left" alt="Wisterpoint Icon" width="300px" src="https://avatars.githubusercontent.com/u/162366085"/></a>
   <p>------------------------------------------------------------------------------------</p>
 <p>I am a first year Computer Science student at university.<br><br>
 I used to do Electronic Engineering manufacturing for two years but ended up switching back into Computer Science.<br><br>
