@@ -21,13 +21,8 @@
   <h3><strong> > <a href="https://www.wisterpoint.com">www.wisterpoint.com</a> <</strong></h3>
   <p>------------------------------------------------------------------------------------</p>
 <h3>What's there</h3>
-<p>
-  　 - It literally just links to this page currently
-  <br>　 - So nothing
-  <br>　 -
-  <br>　 - 
-  <br>　 - 
-  <br> 
+<p>I am a first year Computer Science student at university.
+<br>
 </p>
 <p>-------------------------------------------------------------------------------------</p>
     
