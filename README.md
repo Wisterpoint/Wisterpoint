@@ -25,7 +25,6 @@ I used to do Electronic Engineering manufacturing for two years but ended up swi
 I enjoy both subjects but I have always done something computing related as with engineering, as I leant more into the electronic side especially microcontrollers which usually involves quite a bit of programming.<br><br>
 
 I currently haven't chosen a specfic part of Computer Science that I am interested in but hopefully I will add some things to my github profile in the future for others to see.
-<br>
 </p>
 <p>-------------------------------------------------------------------------------------</p>
     
