@@ -20,11 +20,9 @@
   <a href="https://www.wisterpoint.com"><img align="left" alt="Wisterpoint Icon" width="300px" src="https://avatars.githubusercontent.com/u/162366085"/></a>
   <h3><strong> > <a href="https://www.wisterpoint.com">www.wisterpoint.com</a> <</strong></h3>
   <p>------------------------------------------------------------------------------------</p>
-<p>I am a first year Computer Science student at university.<br>
-I used to do Electronic Engineering manufacturing for two years but ended up switching back into Computer Science.<br>
-I enjoy both subjects but I have always done something computing related as with engineering, as I leant more into the electronic side especially microcontrollers which usually involves quite a bit of programming.<br><br>
-
-I currently haven't chosen a specfic part of Computer Science that I am interested in but hopefully I will add some things to my github profile in the future for others to see.
+<p>I am a first year Computer Science student at university.<br><br>
+I used to do Electronic Engineering manufacturing for two years but ended up switching back into Computer Science.<br><br>
+I enjoy both subjects but I have always done something computing related as with engineering, as I leant more into the electronic side especially microcontrollers which usually involves quite a bit of programming.
 </p>
 <p>-------------------------------------------------------------------------------------</p>
     
