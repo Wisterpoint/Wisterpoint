@@ -20,7 +20,6 @@
   <a href="https://www.wisterpoint.com"><img align="left" alt="Wisterpoint Icon" width="300px" src="https://avatars.githubusercontent.com/u/162366085"/></a>
   <h3><strong> > <a href="https://www.wisterpoint.com">www.wisterpoint.com</a> <</strong></h3>
   <p>------------------------------------------------------------------------------------</p>
-<h3>What's there</h3>
 <p>I am a first year Computer Science student at university.
 <br>
 </p>
