@@ -22,7 +22,7 @@
 <p>I am a first year Computer Science student at university.<br><br>
 I used to do Electronic Engineering manufacturing for two years but ended up switching back into Computer Science.<br><br>
 I enjoy both subjects but I have always done something computing related as with engineering, as I leant more into the electronic side especially microcontrollers which usually involves quite a bit of programming.<br><br>
-I plan to post/share some of my projects here for others to see. Hopefully they aren't bad. If they are then hopefully I can improve over time.
+I plan to post/share some of my projects here for others to see. Hopefully you find them intersting and or enjoyable.
 </p>
 <p>-------------------------------------------------------------------------------------</p>
     
